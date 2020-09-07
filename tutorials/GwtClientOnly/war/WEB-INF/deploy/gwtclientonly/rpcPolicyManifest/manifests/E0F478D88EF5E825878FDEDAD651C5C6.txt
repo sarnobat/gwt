@@ -1,0 +1,2 @@
+serviceClass: com.rohidekar.gwt.tutorial.client.GreetingService
+path: E423642617C5A83A043E0A11403AC21B.gwt.rpc

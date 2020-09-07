@@ -1,0 +1,2 @@
+serviceClass: com.rohidekar.uibinder.client.GreetingService
+path: F336FD8163E8FFA072A9E2809F83BBC4.gwt.rpc

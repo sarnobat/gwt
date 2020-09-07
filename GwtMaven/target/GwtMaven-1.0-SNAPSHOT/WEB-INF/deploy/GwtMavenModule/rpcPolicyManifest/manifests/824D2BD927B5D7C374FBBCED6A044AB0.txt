@@ -1,0 +1,2 @@
+serviceClass: GwtMavenGroup.client.GreetingService
+path: 14EA408B236B2036640DC5BF2045442A.gwt.rpc
